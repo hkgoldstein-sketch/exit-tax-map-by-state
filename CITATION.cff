@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+type: dataset
+title: "Exit Tax Map 2026: what a single seller keeps selling a $1M, $3M or $10M business, by state"
+abstract: "Federal, 3.8% NIIT and state tax on a $1M, $3M and $10M business sale for all 50 states and DC, with each state rule dated and linked to its source."
+authors:
+  - family-names: Goldstein
+    given-names: Hans
+    alias: "Big Sale Tax"
+version: "2026.10"
+date-released: "2026-10-18"
+license: CC-BY-4.0
+url: "https://bigsaletax.com/data/exit-tax-map-by-state/"
+repository-code: "https://github.com/hkgoldstein-sketch/exit-tax-map-by-state"
+keywords:
+  - capital gains tax
+  - state income tax
+  - business sale
+  - net investment income tax
+  - tax by state
+  - 2026
